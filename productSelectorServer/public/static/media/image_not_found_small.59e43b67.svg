@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>image_not_found_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pages_Sprint-11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image_not_found" transform="translate(-261.000000, -252.000000)">
+            <g id="image_not_found_small" transform="translate(261.000000, 252.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="50" height="50"></rect>
+                <g id="Brand-2" transform="translate(1.000000, 1.000000)">
+                    <g id="number-portability">
+                        <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                        <g id="beb8ff17-c184-44e2-947e-37381f4b511d" transform="translate(7.000000, 5.000000)" stroke-linejoin="round" stroke-width="2.00347826">
+                            <path d="M10,34.025 L10,34" id="Path" stroke="#9C2AA0" stroke-linecap="round"></path>
+                            <path d="M22,30.025 L26,30.025" id="Path" stroke="#333333" stroke-linecap="round"></path>
+                            <rect id="Rectangle" stroke="#333333" stroke-linecap="round" x="0" y="4" width="20" height="34" rx="3.00521739"></rect>
+                            <path d="M14,4 L14,3 C14,1.34314575 15.3431458,0 17,0 L31,0 C32.6568542,0 34,1.34314575 34,3 L34,31 C34,32.6568542 32.6568542,34 31,34 L20,34" id="Path" stroke="#363636"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path d="M305.5,257.5 L265.5,297.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

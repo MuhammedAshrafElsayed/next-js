@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "next": "^9.3.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-intl": "^4.4.0",
+    "react-intl-redux": "^2.2.0",
+    "react-redux": "^7.2.0"
+  }
+}

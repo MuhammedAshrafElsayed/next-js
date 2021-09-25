@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>8A80039A-42D3-4BE3-B156-6D7CE45D6647</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons+Indicators-/-System-Icons-/-delete-/-#E60000">
+            <g id="delete">
+                <polygon id="bg" fill-opacity="0" fill="#D8D8D8" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M15,18 L15,9" id="path_1" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M12,18 L12,9" id="path_1" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9,18 L9,9" id="path_1" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4.5,5.5 L19.5,5.5" id="Shape" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M14.9999999,5.5 L14.9999999,4.5 L14.9999999,4.5 C14.9999999,3.39543 14.10457,2.5 12.9999999,2.5 L10.9999999,2.5 L10.9999999,2.5 C9.89542991,2.5 8.99999991,3.39543 8.99999991,4.5 C8.99999991,4.5 8.99999991,4.5 8.99999991,4.5 L8.99999991,5.5" id="Shape" stroke="#E60000" stroke-linejoin="round"></path>
+                <path d="M18.4999999,5.5 L18.4999999,20 L18.4999999,20 C18.4999999,20.8284275 17.8284275,21.5 16.9999999,21.5 L6.99999993,21.5 L6.99999993,21.5 C6.17157243,21.5 5.49999993,20.8284275 5.49999993,20 C5.49999993,20 5.49999993,20 5.49999993,20 L5.49999993,5.5" id="Shape" stroke="#E60000" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

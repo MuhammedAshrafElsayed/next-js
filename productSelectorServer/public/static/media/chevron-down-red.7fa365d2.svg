@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>0FB4E741-CE8A-44AE-8EDF-05031E6B875B</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons+Indicators-/-System-Icons-/-chevron_down-/-red">
+            <g id="chevron_down">
+                <polygon id="bg" fill-opacity="0" fill="#D8D8D8" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) " points="0 0 24 0 24 24 0 24"></polygon>
+                <polyline id="Shape" stroke="red" stroke-linecap="round" stroke-linejoin="round" points="20.5 8.5 12 17 3.5 8.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
